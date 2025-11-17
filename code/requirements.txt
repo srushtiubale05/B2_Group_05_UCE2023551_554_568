@@ -1,0 +1,14 @@
+scikit-learn
+ultralytics
+torch
+torchvision
+torchaudio
+opencv-python-headless
+numpy
+pillow
+imutils
+pytesseract
+easyocr
+requests
+tqdm
+joblib
